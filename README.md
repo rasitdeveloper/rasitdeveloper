@@ -1,5 +1,5 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="320" />
-## I'm a Student 👨‍🎓, Mobile Developer 📱!
+## I'm master's degree student. 👨‍🎓, Mobile Developer 📱!
 - 🔭 I’m currently working on a large and special application.
 - 🌱 I’m currently learning 😂
 - 👯 I’m looking to collaborate with other Swift developer and Flutter developer👩‍💻.
