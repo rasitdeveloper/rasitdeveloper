@@ -1,10 +1,9 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="320" />
-## I'm master's degree student. 👨‍🎓, Mobile Developer 📱!
-- 🔭 I’m currently working on a large and special application.
-- 🌱 I’m currently learning 😂
-- 👯 I’m looking to collaborate with other Swift developer and Flutter developer👩‍💻.
-- 🥅 2022 Goals: Developing an app to be heard in the world 🌎 and learning more mobile development.
-- ⚡ Fun fact: I like reading philosophy 📙, swimming 🏊‍♂️ and watching sci-fi movies 🤖.
+## Hi there 👋 I'm Raşit, a computer engineer who likes to research and develop himself.
+## I'm interested in web and mobile programming.
+## Also i am master's degree student, and i'm currently learning 😂
+## 🥅 2022 Goals: Developing more complex applications and learning more web and mobile technologies.
+## ⚡ Fun fact: I like reading philosophy 📙, swimming 🏊‍♂️ and watching sci-fi movies 🤖.
 
 <br />
 
