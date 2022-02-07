@@ -1,9 +1,9 @@
 <img align="right" alt="GIF" src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" width="500" height="320" />
-## Hi there 👋 I'm Raşit, a computer engineer who likes to research and develop himself.
-I'm interested in web and mobile programming.
-Also i am master's degree student, and i'm currently learning 😂
-🥅 2022 Goals: Developing more complex applications and learning more web and mobile technologies.
-⚡ Fun fact: I like reading philosophy 📙, swimming 🏊‍♂️ and watching sci-fi movies 🤖.
+## Hi there 👋 I'm Raşit, a computer engineer who likes to research and develop himself. <br />
+I'm interested in web and mobile programming. <br />
+Also i am master's degree student, and i'm currently learning 😂. <br />
+🥅 2022 Goals: Developing more complex applications and learning more web and mobile technologies. <br />
+⚡ Fun fact: I like reading philosophy 📙, swimming 🏊‍♂️ and watching sci-fi movies 🤖. <br />
 
 <br />
 
