@@ -21,7 +21,7 @@
 
 ### 🔧 Languages and Tools:
 
-[<img align="left alt="javaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javaScript]
+[<img align="left" alt="javaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />][javaScript]
 [<img align="left" alt="Swift" width="26px" src="https://developer.apple.com/swift/images/swift-og.png" />][swift]
 [<img align="left" alt="Flutter" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/flutter/flutter.png" />][flutter]
 [<img align="left" alt="Ios" width="26px" src="https://raw.githubusercontent.com/github/explore/cebd63002168a05a6a642f309227eefeccd92950/topics/ios/ios.png" />][ios]
