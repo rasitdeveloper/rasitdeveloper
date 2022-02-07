@@ -50,11 +50,9 @@
 [swift]: https://developer.apple.com/swift/
 
 <br />
-<br />
 
 ### GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=rasitdeveloper&theme=tokyonight)
 
 ### GitHub Analytics 📊
-
 <img height="180em" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rasitdeveloper&show_icons=true&locale=en&layout=compact&langs_count=8&theme=radical" alt="mukireus"/>
